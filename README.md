@@ -1,3 +1,3 @@
 # ashwin_teaches
 
-That is for conflict
+That is for conflicts
